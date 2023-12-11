@@ -1,0 +1,57 @@
+  @import url('https://fonts.googleapis.com/css2?family=Arizonia&family=Inconsolata:wght@300&family=McLaren&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+.ml3 {
+	padding: 172px 0 0 0;
+	
+	font-weight: 900;
+	font-size: 3.5em;
+	color: #94A684;
+  }
+  .name{
+	font-family: 'Arizonia', cursive;
+	padding: 27px 0 0 300px;
+  }
+
+  .dropdown{
+	padding: 27px 0 0 908px;
+  }
+  input{
+	border-radius: 3px;
+	height: 6vh;
+	padding: 20px 210px;
+	border: 2px solid white;
+  }
+  .add{
+	padding: 13px;
+    border-radius: 12px;
+    width: 39.5vw;
+    background-color: #94A684;
+    color: #ffff;
+	display: block;
+  }
+
+  .add-btn{
+	padding: 12px 10px;
+  }
+
+.sign-btn{
+	border-radius: 12%;
+	padding: 1.4000000057px;
+	margin: 9px;
+    background-color: #6c757d;
+    border-color: #979a9e;
+    color: #ffff;
+}
+.slider {
+	padding: 35px;
+	display: flexbox;
+	height: 100vh;
+	width: 100vw;
+	background-image: url("https://media-public.canva.com/PvdcA/MAE_PLPvdcA/1/s.jpg" );
+	background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+    
+}
